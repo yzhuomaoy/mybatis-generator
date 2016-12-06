@@ -1,0 +1,23 @@
+| gs_article_lang_info  |
+| gs_article_lang_main  |
+| gs_cms_article        |
+| gs_cms_article_class  |
+| gs_cms_slide          |
+| gs_goods              |
+| gs_goods_class        |
+| gs_goods_class_staple |
+| gs_goods_common       |
+| gs_goods_type         |
+| gs_member             |
+| gs_role               |
+| gs_store              |
+| gs_store_class        |
+| gs_store_goods_class  |
+| gs_store_grade        |
+| gs_store_join         |
+| gs_store_nav          |
+| gs_store_plate        |
+| gs_store_warning      |
+| gs_user               |
+| gs_user_role          |
++-----------------------+
